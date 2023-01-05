@@ -1,6 +1,6 @@
 # VapeV114514 Client
 
-### ~~The Best  MC Hacker Client~~
+### ~~The Best Minecraft Hacker Client~~
 
 ## 介绍
 
